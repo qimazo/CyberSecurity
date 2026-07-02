@@ -1,1 +1,41 @@
-
+email_text,label
+Your PayPal account has been locked. Click here to verify your password: http://paypal-secure-login.com,phishing
+URGENT! Your bank account will be suspended in 24 hours. Verify now: http://bank-verify-now.com,phishing
+Congratulations! You have won a $500 gift card. Claim it here: http://claim-prize-now.com,phishing
+Your Netflix payment failed. Update your billing details immediately: http://netflix-billing-update.com,phishing
+Security alert: unusual login detected. Confirm your identity now: http://account-security-check.com,phishing
+Your Apple ID has been locked for your protection. Verify here: http://apple-id-locked.com,phishing
+Final notice: your account will be deleted unless you verify today: http://verify-account-now.com,phishing
+You have a pending refund of $250. Click here to claim it: http://refund-claim-now.com,phishing
+Your password has expired. Reset it immediately here: http://reset-password-now.com,phishing
+"Dear customer, your card details need urgent verification: http://card-verify-secure.com",phishing
+Your Amazon order could not be delivered. Confirm your address: http://amazon-delivery-update.com,phishing
+"Act now! Your email storage is full, upgrade here: http://email-storage-upgrade.com",phishing
+We detected suspicious activity on your account. Login here to secure it: http://secure-login-check.com,phishing
+Your subscription payment was declined. Update payment info now: http://update-payment-info.com,phishing
+Click here immediately to avoid account suspension: http://avoid-suspension-now.com,phishing
+Your invoice of $980 is overdue. Pay now to avoid penalties: http://pay-invoice-now.com,phishing
+Warning: your mailbox will be closed today unless you verify: http://verify-mailbox-now.com,phishing
+You have won a free iPhone! Claim your prize before it expires: http://free-iphone-claim.com,phishing
+Your bank details need to be re-confirmed due to a security breach: http://bank-details-confirm.com,phishing
+Login attempt from a new device detected. Verify within 24 hours: http://new-device-verify.com,phishing
+"Hi Sarah, just a reminder that our meeting is at 10am tomorrow.",legitimate
+"Hey team, attached is the report we discussed in yesterday's meeting.",legitimate
+"Hi John, thanks for your email. I will get back to you by Friday.",legitimate
+"Reminder: the project deadline is next Monday, let me know if you need help.",legitimate
+"Hi Emma, can we reschedule our call to 3pm? Let me know if that works.",legitimate
+"Thanks for joining the call today, here are the notes and next steps.",legitimate
+"Hi David, happy birthday! Hope you have a great day.",legitimate
+"The quarterly report has been uploaded to the shared drive, please review.",legitimate
+"Hi Priya, please find attached the invoice for last month's services.",legitimate
+"Just checking in to see how the project is going, let's catch up this week.",legitimate
+"Hi Tom, the class has been moved to room 204 starting next week.",legitimate
+Thanks for your order! Your package will arrive within 3-5 business days.,legitimate
+"Hi Lisa, I reviewed the document and left a few comments, looks good overall.",legitimate
+"Reminder: your dentist appointment is on Tuesday morning, reply to confirm.",legitimate
+"Hi team, please join me in welcoming Alex to the team this week.",legitimate
+"Hi Anna, lunch on Friday? Let me know what works for you.",legitimate
+"Here is the agenda for tomorrow's meeting, let me know if I missed anything.",legitimate
+"Hi Chris, great presentation today, thanks for putting that together.",legitimate
+"The office will be closed on Monday for the holiday, have a great break.",legitimate
+"Hi Maria, following up on our conversation, here is the summary we agreed on.",legitimate
