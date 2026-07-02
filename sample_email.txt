@@ -1,0 +1,9 @@
+Dear Customer,
+
+We detected unusual activity on your Apple ID. To protect your account, please verify your identity immediately by clicking the link below.
+
+http://apple-id-locked.co/verify
+
+If you do not verify within 24 hours, your account will be permanently suspended.
+
+Apple Support Team
