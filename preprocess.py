@@ -11,15 +11,14 @@ COMMON_WORDS = [
 
 #Words that can show pressure and urgency
 URGENT_WORDS = [
-    "urgent", "immediately", "asap", "act now", "final notice",
-    "warning", "alert", "suspended", "locked", "limited time",
-    "verify now", "expire", "expires", "expired", "click here"
+    "urgent", "immediately", "warning", "asap", "act now", "alert", "suspended", "locked", "expires", "limited time",
+    "verify now", "expire", "expired", "final notice",  "click here"
 ]
 
 #Words that ask for private  info
 PASSWORD_WORDS = [
-    "password", "login", "log in", "verify your account",
-    "confirm your identity", "bank details", "card details"
+    "password", "login", "log in",  "bank details", "verify your account",
+    "confirm your identity", "card details"
 ]
 
 #This find website links in the email
